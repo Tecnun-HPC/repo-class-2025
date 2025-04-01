@@ -1,3 +1,3 @@
 disp('Mi script');
-a = 123;
+a = 666; % Alice ha cambiado
 disp('Soy BOB');
